@@ -1,0 +1,5 @@
+streamlit
+replicate
+requests
+beautifulsoup4
+PyMuPDF
